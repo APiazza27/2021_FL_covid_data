@@ -1,0 +1,64 @@
+County,Date,Avg_Cases
+Bay,2021-02-03,185
+Bay,2021-03-03,49
+Bay,2021-04-03,17
+Brevard,2021-02-03,235
+Brevard,2021-03-03,125
+Brevard,2021-04-03,101
+Charlotte,2021-02-03,51
+Charlotte,2021-03-03,22
+Charlotte,2021-04-03,45
+Collier,2021-02-03,132
+Collier,2021-03-03,77
+Collier,2021-04-03,92
+Escambia,2021-02-03,215
+Escambia,2021-03-03,72
+Escambia,2021-04-03,29
+Flagler,2021-02-03,40
+Flagler,2021-03-03,29
+Flagler,2021-04-03,24
+Indian River,2021-02-03,59
+Indian River,2021-03-03,30
+Indian River,2021-04-03,21
+Lee,2021-02-03,268
+Lee,2021-03-03,153
+Lee,2021-04-03,195
+Marion,2021-02-03,145
+Marion,2021-03-03,74
+Marion,2021-04-03,48
+Martin,2021-02-03,41
+Martin,2021-03-03,34
+Martin,2021-04-03,27
+Monroe,2021-02-03,28
+Monroe,2021-03-03,23
+Monroe,2021-04-03,21
+Nassau,2021-02-03,48
+Nassau,2021-03-03,13
+Nassau,2021-04-03,6
+Okaloosa,2021-02-03,116
+Okaloosa,2021-03-03,82
+Okaloosa,2021-04-03,14
+Palm Beach,2021-02-03,675
+Palm Beach,2021-03-03,400
+Palm Beach,2021-04-03,372
+Pasco,2021-02-03,179
+Pasco,2021-03-03,108
+Pasco,2021-04-03,114
+Pinellas,2021-02-03,364
+Pinellas,2021-03-03,205
+Pinellas,2021-04-03,226
+St. Johns,2021-02-03,127
+St. Johns,2021-03-03,35
+St. Johns,2021-04-03,65
+St. Lucie,2021-02-03,120
+St. Lucie,2021-03-03,69
+St. Lucie,2021-04-03,55
+Santa Rosa,2021-02-03,98
+Santa Rosa,2021-03-03,44
+Santa Rosa,2021-04-03,16
+Volusia,2021-02-03,261
+Volusia,2021-03-03,100
+Volusia,2021-04-03,171
+Walton,2021-02-03,45
+Walton,2021-03-03,17
+Walton,2021-04-03,10
